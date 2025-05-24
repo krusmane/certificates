@@ -1,9 +1,7 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="">
@@ -14,7 +12,6 @@
         <br>
         <i>Coursera - Online Learning Platform | Feb 2025</i>
         <br>
-        <a href="http://" target="_blank" rel="noopener noreferrer">Vuew Certificate</a>
-
+        <a href="http://" target="_blank" rel="noopener noreferrer">View Certificate</a>
     </body>
 </html>
