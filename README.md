@@ -2,5 +2,6 @@
 
 <b>IBM Data Professional Certificate</b>
 <i>Coursera - Online Learning Platform | Feb 2025</i>
+<a href="">Click here to view certificate</a>
 
 
