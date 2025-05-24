@@ -4,6 +4,9 @@
 <br>
 <i>Coursera - Online Learning Platform | Feb 2025</i>
 <br>
-<iframe src="IBM Data Analyst Professional Certificate.pdf"> </iframe>
+
+<a href="IBM Data Analyst Professional Certificate.pdf" download>
+  Download
+</a>
 
 
