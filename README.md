@@ -12,6 +12,6 @@
         <br>
         <i>Coursera - Online Learning Platform | Feb 2025</i>
         <br>
-        <a href="http://" target="_blank" rel="noopener noreferrer">View Certificate</a>
+        <a href="IBM Data Analyst Professional Certificate.pdf" target="_blank" rel="noopener noreferrer">View Certificate</a>
     </body>
 </html>
