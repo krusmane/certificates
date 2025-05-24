@@ -1,2 +1,6 @@
-# certificates
-Creating this as a quick access to display certificates
+<h1>My Certificates<h1></h1>
+
+<b>IBM Data Professional Certificate</b>
+<i>Coursera - Online Learning Platform | Feb 2025</i>
+
+
